@@ -1,1 +1,4 @@
-
+# requirements.txt
+snowflake-connector-python
+snowfake-snowpark-python
+streamlit==1.31.1
